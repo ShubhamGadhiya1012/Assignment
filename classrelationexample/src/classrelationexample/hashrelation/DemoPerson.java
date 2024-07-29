@@ -19,6 +19,5 @@ public class DemoPerson {
 	// injection object of address class to person class 
 	
 	}
-	
 
 }
